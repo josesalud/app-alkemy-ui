@@ -1,0 +1,6 @@
+.gradiant{
+  width: 100%;
+  height: 100vh;
+  background: rgb(22,61,83);
+  background: linear-gradient(90deg, rgba(22,61,83,1) 0%, rgba(110,78,84,0.8883928571428571) 35%, rgba(55,43,73,1) 100%);
+}
